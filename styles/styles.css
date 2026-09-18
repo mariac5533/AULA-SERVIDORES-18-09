@@ -1,0 +1,54 @@
+/*
+body{  
+    background-color: black;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;}
+    
+    h1{
+        text-align:center;}
+
+p{font-weight: bold;}
+
+img{border-radius: 30px;
+    width: 200px;
+    height: 200px;}
+
+a{ text-decoration: none;}
+
+h3{text-decoration: underline;}
+
+mark{background-color: red;}
+
+button{
+   background-color: aliceblue;
+    color: black;
+    border-radius: 8px;}
+
+button:hover{  background-color: bisque;
+    color: brown;
+    cursor: pointer;
+}
+header{ background-color: bisque;}
+main{ background-color: grey;}
+footer{ background-color: blueviolet;} 
+*/ 
+
+
+#menu{
+    background-color: aqua;
+} 
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 0;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+} 
+.section-one{
+    text-align: center;
+}
